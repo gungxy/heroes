@@ -6,6 +6,8 @@ U50250882
 
 phuang@bu.edu
 
+(Part of the codes is from GitHu
+
 ## INSTRUCTIONS
 
 javac src/Main.java
