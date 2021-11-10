@@ -6,7 +6,6 @@ U50250882
 
 phuang@bu.edu
 
-(Part of the codes is from GitHub.)
 
 ## INSTRUCTIONS
 
