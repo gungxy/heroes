@@ -1,4 +1,4 @@
-Legends: Heroes and Monsters 
+# Legends: Heroes and Monsters 
 
 Peng Huang
 
@@ -6,14 +6,14 @@ U50250882
 
 phuang@bu.edu
 
-INSTRUCTIONS
+## INSTRUCTIONS
 
 javac src/Main.java
 
 java -classpath src Main
 
 
-CLASS DESCRIPTION
+## CLASS DESCRIPTION
 
 Attacking interface: the attacking ability that items have commonly. 
 
@@ -108,3 +108,5 @@ Team: a generic team that consists of heroes or monsters.
 Warrior: a warrior character in Legends game. 
 
 Weapon: a weapon, which has the attacking ability. 
+
+
